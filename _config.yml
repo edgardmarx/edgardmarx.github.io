@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Edgard Marx / Academic Website"
+title                    : "Hello World"
 title_separator          : "-"
 name                     : &name "Edgard Marx"
 description              : &description "personal description"
