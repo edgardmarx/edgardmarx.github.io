@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-*Selected Publications*
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -23,18 +21,14 @@ author_profile: true
 
 **Conference Papers**
 
+* Neural Machine Translation for Query Construction and Composition
+  T. Soru, **<u>E. Marx</u>**, A. Valdestilhas, D. Esteves, D. Moussallem, G. Publio <br>
+  NAMPI v2 2018 \[[pdf](https://arxiv.org/pdf/1806.10478.pdf)\] \[[project](https://github.com/aksw/NSpM)\]
+  
 * RQUERY: Rewriting Natural Language Queries on Knowledge Graphs to Alleviate the Vocabulary Mismatch Problem <br>
   S. Shekarpour,  **<u>E. Marx</u>**, S. Auer <br>
-  AAAI 2017 \[[pdf](https://openreview.net/forum?id=1tHAZRqftM)\] \[[code](https://github.com/jumxglhf/ParetoGNN)\]
+  AAAI 2017 \[[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/11131/10990)\]
 
 * ROCKER: A refinement operator for key discovery <br>
   T. Soru, **<u>E. Marx</u>**, A.C. Ngonga Ngomo <br>
-  WWW 2015 \[[pdf](https://openreview.net/forum?id=1tHAZRqftM)\] \[[code](https://github.com/jumxglhf/ParetoGNN)\]
-
-
-
-# {% include base_path %}
-
-# {% for post in site.publications reversed %}
-# {% include archive-single.html %}
-# {% endfor %}
+  WWW 2015 \[[pdf](https://arxiv.org/pdf/1705.04380.pdf)\]
