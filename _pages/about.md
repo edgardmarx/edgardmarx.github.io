@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Edgard, a Linked Data Expert @eccenca and Project Manager at the Leipzig University of Applied Sciences (HTWK) working on Natural Language Processing (NLP) focusing on Question Answering, Semantic Search systems, Data Management, and Digital Twins for large enterprises. 
+Hi, I am Edgard, a Linked Data Expert at eccenca and Project Manager at Leipzig University of Applied Sciences (HTWK) working on Natural Language Processing (NLP) focusing on Question Answering, Semantic Search systems, Data Management, and Digital Twins for large enterprises. 
 I have experience in software engineering, project management, and designing innovative solutions. 
 
-Here are some of my highlights:
+Here are some of my career highlights:
 * (Co-)inventor of Neural SPARQL Machines (NSpM) and Data Dependency Management
 * Member of the W3C Reconciliation and Machine Learning Schema working groups
 * Founder of W3C SPARQL Protocol and RDF Query Language for Machine Learning (SPARQL-ML) working group
