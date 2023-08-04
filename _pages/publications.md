@@ -21,7 +21,7 @@ author_profile: true
 
 **Conference Papers**
 
-* Neural Machine Translation for Query Construction and Composition
+* Neural Machine Translation for Query Construction and Composition <br>
   T. Soru, **<u>E. Marx</u>**, A. Valdestilhas, D. Esteves, D. Moussallem, G. Publio <br>
   NAMPI v2 2018 \[[pdf](https://arxiv.org/pdf/1806.10478.pdf)\] \[[project](https://github.com/aksw/NSpM)\]
   
