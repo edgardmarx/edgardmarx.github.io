@@ -24,4 +24,4 @@ Here are some of my highlights:
 News
 ======
 
-[2023.08] I will be attending Semantics'23.
+- [2023.08] I will be attending Semantics'23.
