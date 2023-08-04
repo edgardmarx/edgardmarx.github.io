@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For a full list, please consult my \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=1jAHNZIAAAAJ)\]
+For a full list, please consult my [Google Scholar](https://scholar.google.com/citations?hl=en&user=1jAHNZIAAAAJ).
 
 **Journal Papers**
 
