@@ -11,7 +11,7 @@ For a full list, please consult my [Google Scholar](https://scholar.google.com/c
 
 * Decentralized Collaborative Knowledge Management Using Git <br>
   N. Arndt, P. Naumann, N. Radtke, M. Martin, E. Marx <br>
-  Journal of Web Semantics, volume 54, 29-57, 2019 \[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1570826818300416)\]
+  Journal of Web Semantics, Volume 54, 2019 \[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1570826818300416)\]
 
 * Survey on challenges of question answering in the Semantic Web <br>
   K. Höffner, S. Walter, **<u>E. Marx</u>**, R. Usbeck, J. Lehmann, A.C.N. Ngomo <br>
@@ -24,7 +24,7 @@ For a full list, please consult my [Google Scholar](https://scholar.google.com/c
 **Workshops**
 
 * First International Biochemical Knowledge Extraction Challenge (BiKE) <br>
-  Co-located with the Text2KG at ESWC 2023, May 05-29-2023, Crete, Hersonissos <br>
+  Co-located with the Text2KG at ESWC 2023, Crete, Hersonissos <br>
   **<u>E. Marx</u>**, M. Valli, J. Silva e Silva, S. Tiwari, P. Carmo <br>
   ESWC 2023 \[[proceedings](https://ceur-ws.org/Vol-3447/)\] \[[workshop](https://aksw.org/bike)\]
 
