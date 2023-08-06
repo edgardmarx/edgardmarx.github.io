@@ -10,7 +10,7 @@ For a full list, please consult my [Google Scholar](https://scholar.google.com/c
 **Journal Papers**
 
 * Decentralized Collaborative Knowledge Management Using Git <br>
-  N. Arndt, P. Naumann, N. Radtke, M. Martin, E. Marx <br>
+  N. Arndt, P. Naumann, N. Radtke, M. Martin, **<u>E. Marx</u>**, <br>
   Journal of Web Semantics, Volume 54, 2019 \[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1570826818300416)\]
 
 * Survey on challenges of question answering in the Semantic Web <br>
@@ -39,7 +39,7 @@ For a full list, please consult my [Google Scholar](https://scholar.google.com/c
   AAAI 2017 \[[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/11131/10990)\]
 
 * ACRyLIQ: Leveraging DBpedia for adaptive crowdsourcing in linked data quality assessment <br>
-  U. Ul. Hassan, A. Zaveri, **<u>E. Marx**</u>, E. Curry, J. Lehmann <br>
+  U. Ul. Hassan, A. Zaveri, **<u>E. Marx</u>**, E. Curry, J. Lehmann <br>
   EKAW 2016
 
 * ROCKER: A refinement operator for key discovery <br>
